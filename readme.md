@@ -16,7 +16,7 @@ Energy harvesting can enable a reconfigurable intelligent surface (RIS) to self-
 ## Content of Code Package
 
 The article contains 8 simulation figures, numbered 3a, 3b, 3c, 6, 7, 8, 9, and 10. For most figures, there is a script called simulationFigureX.m that can be run to reproduce Figure X.
-An exception is Figure 10, which is reproduced by first running RIS_Channel.m to pregenerate channels, and then running simulationFigure10.m to generate the figure.
+An exception is Figure 10, which is reproduced by first running RIS_Channel_Gen.m to pregenerate channels, and then running simulationFigure10.m to generate the figure.
 
 See each file for further documentation.
 
